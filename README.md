@@ -198,7 +198,6 @@ print(me.motto())
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ItsHarryss)
 [![Phone](https://img.shields.io/badge/Phone-+91_70127_99578-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917012799578)
 
-📍 Pallath (H), Kuttippala, Vattamkulam, Edapal, Malappuram, Kerala
 
 </div>
 
