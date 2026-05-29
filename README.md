@@ -55,18 +55,18 @@ print(me.motto())
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
   <a href="https://github.com/ItsHarryss">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsHarryss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsHarryss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/ItsHarryss">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHarryss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHarryss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
   </a>
 </div>
-
+> ⚠️ _Stats may take a moment to load on first visit — they're fetched live from GitHub._
+ 
 ---
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -83,14 +83,17 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
-
+## 🏆 Highlights & Trophies
+ 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsHarryss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+![Makathon Winner](https://img.shields.io/badge/🥇_Makathon_Winner-CAFEE-gold?style=for-the-badge)
+![NSS Leader](https://img.shields.io/badge/🤝_NSS_Leader-Higher_Secondary-blue?style=for-the-badge)
+![Scout Leader](https://img.shields.io/badge/🏕️_Scout_Leader-High_School-green?style=for-the-badge)
+![Tinkerhub Volunteer](https://img.shields.io/badge/🔧_Tinkerhub-Volunteer-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/💻_Open_Source-Contributor-purple?style=for-the-badge)
+ 
 </div>
-
 ---
-
 ## 💼 Work Experience
 
 <details>
